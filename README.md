@@ -1,4 +1,4 @@
-# Aishwarya Shrigiri – Data Scientist | Machine Learning Engineer | Data Engineer
+# Aishwarya – Data Scientist | Machine Learning Engineer | Data Engineer
 
 Welcome to my GitHub portfolio. I am a data-driven professional with a strong foundation in statistical modeling, machine learning, and scalable data engineering. My work focuses on developing reliable and interpretable AI systems that turn raw data into actionable insights and measurable outcomes.
 
