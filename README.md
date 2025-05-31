@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aishwarya</h1>
+<h1>Hi, I'm Aishwarya,</h1>
 <p>An aspiring Data Scientist specializing in Python, machine learning, and cloud-based solutions. My expertise lies in designing end-to-end pipelines for challenges in finance, computer vision, and natural language processing. I leverage tools such as TensorFlow, PyTorch, and AWS to optimize model performance and ensure scalability. Passionate about transforming raw data into actionable insights, I combine statistical rigor, efficient workflows, and collaborative problem-solving to deliver impactful results. Let's build solutions that turn data into value.</p>
 
 <h2> Languages I Use</h2>
