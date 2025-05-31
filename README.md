@@ -1,64 +1,56 @@
-<h1>Hi, I'm Aishwarya</h1>
+<h2>Technical Skills</h2>
 
+<h3>Languages & Scripting</h3>
 <p>
-I'm a tech enthusiast with a focus on machine learning, data science, and scalable systems. My work involves building end-to-end solutions—from data processing and model development to deployment in production environments. I enjoy applying modern tools and frameworks to solve real-world problems in areas like computer vision, NLP, and financial analytics. I aim to deliver solutions that are not only accurate but also efficient, interpretable, and impactful.
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" width="40" />
 </p>
 
-<h2>Languages</h2>
+<h3>Machine Learning & Modeling</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" title="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" title="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" title="JavaScript" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" title="XGBoost" width="40" />
+  <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo.png" title="LightGBM" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/SHAP_logo.svg/768px-SHAP_logo.svg.png" title="SHAP" width="40" />
 </p>
 
-<h2>Tools & Frameworks</h2>
-
-<h3>Machine Learning & Data</h3>
+<h3>Deep Learning & Computer Vision</h3>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" title="TensorFlow" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" title="PyTorch" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" title="Scikit-learn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" title="Pandas" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" title="Seaborn" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" title="OpenCV" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/kerasio/kerasio-icon.svg" title="Keras" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV" width="40" />
 </p>
 
-<h3>Cloud & DevOps</h3>
+<h3>Natural Language Processing (NLP)</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" title="AWS" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" title="Azure" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" title="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" title="Kubernetes" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" title="Bash" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_logo.png" title="NLTK" width="40" />
+  <img src="https://raw.githubusercontent.com/explosion/branding/master/explosion-style/assets/spacy-logo.svg" title="SpaCy" width="40" />
 </p>
 
-<h3>Web & Backend</h3>
+<h3>Data Engineering & Cloud</h3>
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" title="Django" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" title="Flask" />
-  <img src="https://reactjs.org/favicon.ico" alt="React" width="40" title="React" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" title="React Native" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" title="Node.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="PySpark" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Apache_Airflow_logo.svg" title="Airflow" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI" width="40" />
 </p>
 
-<h3>Databases & Storage</h3>
+<h3>Visualization & BI</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" title="MongoDB" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" title="SQLite" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" title="Microsoft SQL Server" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" title="Oracle" />
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" title="Matplotlib" width="40" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" width="40" />
 </p>
 
-<h3>Other Tools</h3>
+<h3>Workflow & Collaboration</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" title="D3.js" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" title="Grafana" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" title="Postman" />
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" title="Hadoop" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" title="MATLAB" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" title="Unity" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" title="Selenium" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/REST_API_icon.png" title="RESTful API" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="Jira" width="40" />
 </p>
